@@ -1,0 +1,4 @@
+The ECE 551 repository is a collection of files for the Machine Learning Problems course at University of New Mexico.
+The data are versions of satellite telemetry from Shawn Polson's repository https://github.com/sapols/Satellite-Telemetry-Anomaly-Detection/tree/master/Metadata
+Most of the Jupyter notebooks are modified versions of Vijay's autoencoder tutorial at https://keras.io/examples/timeseries/timeseries_anomaly_detection/ 
+that use Polson's bus voltage telemetry.
